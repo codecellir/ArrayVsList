@@ -1,7 +1,7 @@
 <h1 align="center">Array Vs List in C#</h1>
 <h3 align="center">Comparison of array and list benchmarks in C# with .net7 framework</h3>
 <h4 align="left">
-  visit this <a href="https://codecell.ir">article</a> in <a href="https://codecell.ir">Codecell.ir</a>
+  visit this <a href="https://codecell.ir/a/1e11">article</a> in <a href="https://codecell.ir">Codecell.ir</a>
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
