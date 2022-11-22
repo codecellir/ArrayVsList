@@ -1,4 +1,4 @@
-<h1 align="center">Array Vs List in C# Array Vs List in C#</h1>
+<h1 align="center">Array Vs List in C# in C#</h1>
 <h3 align="center">Comparison of array and list benchmarks in C# with .net7 framework</h3>
 
 <h3 align="left">Connect with me:</h3>
